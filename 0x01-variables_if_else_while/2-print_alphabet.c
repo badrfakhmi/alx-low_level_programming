@@ -16,5 +16,5 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
-	return (o);
+	return (0);
 }
